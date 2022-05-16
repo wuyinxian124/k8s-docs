@@ -1,6 +1,6 @@
 # Table of contents
 
-* [k8s-docs](README.md)
+* [介绍](README.md)
 * [event](event.md)
 * [extends](extends.md)
 * [informer](informer.md)
